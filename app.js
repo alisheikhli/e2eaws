@@ -3,7 +3,7 @@
 var devices_endpoint_url = 'https://3is1lbua7h.execute-api.us-west-2.amazonaws.com/prod';
 
 
-// This file covers 3 devices, a real program should be designed to handle any number of devices
+// Thiss file covers 3 devices, a real program should be designed to handle any number of devices
 
 /****************************************
 
